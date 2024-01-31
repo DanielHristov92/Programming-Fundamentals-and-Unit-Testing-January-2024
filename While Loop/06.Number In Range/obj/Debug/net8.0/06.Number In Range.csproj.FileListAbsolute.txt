@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\While Loop\06.Number In Range\bin\Debug\net8.0\06.Number In Range.exe
+C:\Users\hrist\source\repos\While Loop\06.Number In Range\bin\Debug\net8.0\06.Number In Range.deps.json
+C:\Users\hrist\source\repos\While Loop\06.Number In Range\bin\Debug\net8.0\06.Number In Range.runtimeconfig.json
+C:\Users\hrist\source\repos\While Loop\06.Number In Range\bin\Debug\net8.0\06.Number In Range.dll
+C:\Users\hrist\source\repos\While Loop\06.Number In Range\bin\Debug\net8.0\06.Number In Range.pdb
+C:\Users\hrist\source\repos\While Loop\06.Number In Range\obj\Debug\net8.0\06.Number In Range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\While Loop\06.Number In Range\obj\Debug\net8.0\06.Number In Range.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\While Loop\06.Number In Range\obj\Debug\net8.0\06.Number In Range.AssemblyInfo.cs
+C:\Users\hrist\source\repos\While Loop\06.Number In Range\obj\Debug\net8.0\06.Number In Range.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\While Loop\06.Number In Range\obj\Debug\net8.0\06.Number In Range.dll
+C:\Users\hrist\source\repos\While Loop\06.Number In Range\obj\Debug\net8.0\refint\06.Number In Range.dll
+C:\Users\hrist\source\repos\While Loop\06.Number In Range\obj\Debug\net8.0\06.Number In Range.pdb
+C:\Users\hrist\source\repos\While Loop\06.Number In Range\obj\Debug\net8.0\06.Number In Range.genruntimeconfig.cache
+C:\Users\hrist\source\repos\While Loop\06.Number In Range\obj\Debug\net8.0\ref\06.Number In Range.dll
