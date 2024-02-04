@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Loops - Exercise\01.Power of Number\bin\Debug\net8.0\01.Power of Number.exe
+C:\Users\hrist\source\repos\Loops - Exercise\01.Power of Number\bin\Debug\net8.0\01.Power of Number.deps.json
+C:\Users\hrist\source\repos\Loops - Exercise\01.Power of Number\bin\Debug\net8.0\01.Power of Number.runtimeconfig.json
+C:\Users\hrist\source\repos\Loops - Exercise\01.Power of Number\bin\Debug\net8.0\01.Power of Number.dll
+C:\Users\hrist\source\repos\Loops - Exercise\01.Power of Number\bin\Debug\net8.0\01.Power of Number.pdb
+C:\Users\hrist\source\repos\Loops - Exercise\01.Power of Number\obj\Debug\net8.0\01.Power of Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Loops - Exercise\01.Power of Number\obj\Debug\net8.0\01.Power of Number.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Loops - Exercise\01.Power of Number\obj\Debug\net8.0\01.Power of Number.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Loops - Exercise\01.Power of Number\obj\Debug\net8.0\01.Power of Number.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Loops - Exercise\01.Power of Number\obj\Debug\net8.0\01.Power of Number.dll
+C:\Users\hrist\source\repos\Loops - Exercise\01.Power of Number\obj\Debug\net8.0\refint\01.Power of Number.dll
+C:\Users\hrist\source\repos\Loops - Exercise\01.Power of Number\obj\Debug\net8.0\01.Power of Number.pdb
+C:\Users\hrist\source\repos\Loops - Exercise\01.Power of Number\obj\Debug\net8.0\01.Power of Number.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Loops - Exercise\01.Power of Number\obj\Debug\net8.0\ref\01.Power of Number.dll
