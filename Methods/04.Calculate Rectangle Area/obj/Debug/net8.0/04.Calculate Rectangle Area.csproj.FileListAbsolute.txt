@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Methods\04.Calculate Rectangle Area\bin\Debug\net8.0\04.Calculate Rectangle Area.exe
+C:\Users\hrist\source\repos\Methods\04.Calculate Rectangle Area\bin\Debug\net8.0\04.Calculate Rectangle Area.deps.json
+C:\Users\hrist\source\repos\Methods\04.Calculate Rectangle Area\bin\Debug\net8.0\04.Calculate Rectangle Area.runtimeconfig.json
+C:\Users\hrist\source\repos\Methods\04.Calculate Rectangle Area\bin\Debug\net8.0\04.Calculate Rectangle Area.dll
+C:\Users\hrist\source\repos\Methods\04.Calculate Rectangle Area\bin\Debug\net8.0\04.Calculate Rectangle Area.pdb
+C:\Users\hrist\source\repos\Methods\04.Calculate Rectangle Area\obj\Debug\net8.0\04.Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Methods\04.Calculate Rectangle Area\obj\Debug\net8.0\04.Calculate Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Methods\04.Calculate Rectangle Area\obj\Debug\net8.0\04.Calculate Rectangle Area.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Methods\04.Calculate Rectangle Area\obj\Debug\net8.0\04.Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Methods\04.Calculate Rectangle Area\obj\Debug\net8.0\04.Calculate Rectangle Area.dll
+C:\Users\hrist\source\repos\Methods\04.Calculate Rectangle Area\obj\Debug\net8.0\refint\04.Calculate Rectangle Area.dll
+C:\Users\hrist\source\repos\Methods\04.Calculate Rectangle Area\obj\Debug\net8.0\04.Calculate Rectangle Area.pdb
+C:\Users\hrist\source\repos\Methods\04.Calculate Rectangle Area\obj\Debug\net8.0\04.Calculate Rectangle Area.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Methods\04.Calculate Rectangle Area\obj\Debug\net8.0\ref\04.Calculate Rectangle Area.dll
