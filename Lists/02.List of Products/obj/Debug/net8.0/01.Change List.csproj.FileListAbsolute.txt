@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Lists\01.Change List\bin\Debug\net8.0\01.Change List.exe
+C:\Users\hrist\source\repos\Lists\01.Change List\bin\Debug\net8.0\01.Change List.deps.json
+C:\Users\hrist\source\repos\Lists\01.Change List\bin\Debug\net8.0\01.Change List.runtimeconfig.json
+C:\Users\hrist\source\repos\Lists\01.Change List\bin\Debug\net8.0\01.Change List.dll
+C:\Users\hrist\source\repos\Lists\01.Change List\bin\Debug\net8.0\01.Change List.pdb
+C:\Users\hrist\source\repos\Lists\01.Change List\obj\Debug\net8.0\01.Change List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Lists\01.Change List\obj\Debug\net8.0\01.Change List.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Lists\01.Change List\obj\Debug\net8.0\01.Change List.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Lists\01.Change List\obj\Debug\net8.0\01.Change List.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Lists\01.Change List\obj\Debug\net8.0\01.Change List.dll
+C:\Users\hrist\source\repos\Lists\01.Change List\obj\Debug\net8.0\refint\01.Change List.dll
+C:\Users\hrist\source\repos\Lists\01.Change List\obj\Debug\net8.0\01.Change List.pdb
+C:\Users\hrist\source\repos\Lists\01.Change List\obj\Debug\net8.0\01.Change List.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Lists\01.Change List\obj\Debug\net8.0\ref\01.Change List.dll
