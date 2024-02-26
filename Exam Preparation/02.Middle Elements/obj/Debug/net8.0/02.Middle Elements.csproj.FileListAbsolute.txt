@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Exam Preparation 1.0\02.Middle Elements\bin\Debug\net8.0\02.Middle Elements.exe
+C:\Users\hrist\source\repos\Exam Preparation 1.0\02.Middle Elements\bin\Debug\net8.0\02.Middle Elements.deps.json
+C:\Users\hrist\source\repos\Exam Preparation 1.0\02.Middle Elements\bin\Debug\net8.0\02.Middle Elements.runtimeconfig.json
+C:\Users\hrist\source\repos\Exam Preparation 1.0\02.Middle Elements\bin\Debug\net8.0\02.Middle Elements.dll
+C:\Users\hrist\source\repos\Exam Preparation 1.0\02.Middle Elements\bin\Debug\net8.0\02.Middle Elements.pdb
+C:\Users\hrist\source\repos\Exam Preparation 1.0\02.Middle Elements\obj\Debug\net8.0\02.Middle Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Exam Preparation 1.0\02.Middle Elements\obj\Debug\net8.0\02.Middle Elements.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Exam Preparation 1.0\02.Middle Elements\obj\Debug\net8.0\02.Middle Elements.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Exam Preparation 1.0\02.Middle Elements\obj\Debug\net8.0\02.Middle Elements.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Exam Preparation 1.0\02.Middle Elements\obj\Debug\net8.0\02.Middle Elements.dll
+C:\Users\hrist\source\repos\Exam Preparation 1.0\02.Middle Elements\obj\Debug\net8.0\refint\02.Middle Elements.dll
+C:\Users\hrist\source\repos\Exam Preparation 1.0\02.Middle Elements\obj\Debug\net8.0\02.Middle Elements.pdb
+C:\Users\hrist\source\repos\Exam Preparation 1.0\02.Middle Elements\obj\Debug\net8.0\02.Middle Elements.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Exam Preparation 1.0\02.Middle Elements\obj\Debug\net8.0\ref\02.Middle Elements.dll
