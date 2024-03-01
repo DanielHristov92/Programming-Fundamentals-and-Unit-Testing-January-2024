@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\01.Calculate Sum Prime Numbers\01.Calculate Sum Prime Numbers\bin\Debug\net8.0\01.Calculate Sum Prime Numbers.exe
+C:\Users\hrist\source\repos\01.Calculate Sum Prime Numbers\01.Calculate Sum Prime Numbers\bin\Debug\net8.0\01.Calculate Sum Prime Numbers.deps.json
+C:\Users\hrist\source\repos\01.Calculate Sum Prime Numbers\01.Calculate Sum Prime Numbers\bin\Debug\net8.0\01.Calculate Sum Prime Numbers.runtimeconfig.json
+C:\Users\hrist\source\repos\01.Calculate Sum Prime Numbers\01.Calculate Sum Prime Numbers\bin\Debug\net8.0\01.Calculate Sum Prime Numbers.dll
+C:\Users\hrist\source\repos\01.Calculate Sum Prime Numbers\01.Calculate Sum Prime Numbers\bin\Debug\net8.0\01.Calculate Sum Prime Numbers.pdb
+C:\Users\hrist\source\repos\01.Calculate Sum Prime Numbers\01.Calculate Sum Prime Numbers\obj\Debug\net8.0\01.Calculate Sum Prime Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\01.Calculate Sum Prime Numbers\01.Calculate Sum Prime Numbers\obj\Debug\net8.0\01.Calculate Sum Prime Numbers.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\01.Calculate Sum Prime Numbers\01.Calculate Sum Prime Numbers\obj\Debug\net8.0\01.Calculate Sum Prime Numbers.AssemblyInfo.cs
+C:\Users\hrist\source\repos\01.Calculate Sum Prime Numbers\01.Calculate Sum Prime Numbers\obj\Debug\net8.0\01.Calculate Sum Prime Numbers.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\01.Calculate Sum Prime Numbers\01.Calculate Sum Prime Numbers\obj\Debug\net8.0\01.Calculate Sum Prime Numbers.dll
+C:\Users\hrist\source\repos\01.Calculate Sum Prime Numbers\01.Calculate Sum Prime Numbers\obj\Debug\net8.0\refint\01.Calculate Sum Prime Numbers.dll
+C:\Users\hrist\source\repos\01.Calculate Sum Prime Numbers\01.Calculate Sum Prime Numbers\obj\Debug\net8.0\01.Calculate Sum Prime Numbers.pdb
+C:\Users\hrist\source\repos\01.Calculate Sum Prime Numbers\01.Calculate Sum Prime Numbers\obj\Debug\net8.0\01.Calculate Sum Prime Numbers.genruntimeconfig.cache
+C:\Users\hrist\source\repos\01.Calculate Sum Prime Numbers\01.Calculate Sum Prime Numbers\obj\Debug\net8.0\ref\01.Calculate Sum Prime Numbers.dll
