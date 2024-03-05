@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\Programming Fundamentals EXAM\02.Problem\bin\Debug\net8.0\02.Problem.exe
+C:\Users\hrist\source\repos\Programming Fundamentals EXAM\02.Problem\bin\Debug\net8.0\02.Problem.deps.json
+C:\Users\hrist\source\repos\Programming Fundamentals EXAM\02.Problem\bin\Debug\net8.0\02.Problem.runtimeconfig.json
+C:\Users\hrist\source\repos\Programming Fundamentals EXAM\02.Problem\bin\Debug\net8.0\02.Problem.dll
+C:\Users\hrist\source\repos\Programming Fundamentals EXAM\02.Problem\bin\Debug\net8.0\02.Problem.pdb
+C:\Users\hrist\source\repos\Programming Fundamentals EXAM\02.Problem\obj\Debug\net8.0\02.Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\Programming Fundamentals EXAM\02.Problem\obj\Debug\net8.0\02.Problem.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\Programming Fundamentals EXAM\02.Problem\obj\Debug\net8.0\02.Problem.AssemblyInfo.cs
+C:\Users\hrist\source\repos\Programming Fundamentals EXAM\02.Problem\obj\Debug\net8.0\02.Problem.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\Programming Fundamentals EXAM\02.Problem\obj\Debug\net8.0\02.Problem.dll
+C:\Users\hrist\source\repos\Programming Fundamentals EXAM\02.Problem\obj\Debug\net8.0\refint\02.Problem.dll
+C:\Users\hrist\source\repos\Programming Fundamentals EXAM\02.Problem\obj\Debug\net8.0\02.Problem.pdb
+C:\Users\hrist\source\repos\Programming Fundamentals EXAM\02.Problem\obj\Debug\net8.0\02.Problem.genruntimeconfig.cache
+C:\Users\hrist\source\repos\Programming Fundamentals EXAM\02.Problem\obj\Debug\net8.0\ref\02.Problem.dll
